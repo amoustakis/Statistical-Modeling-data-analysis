@@ -2,7 +2,7 @@ A series of 3 assignments conducted as part of the module ‘Statistical Modelli
 
 •	Linear Regression: Linear Model, Mathematical Proofs, Scatter Plot, Hypothesis Testing, Confidence Intervals
 
-•	Polynomial Regression: Polynomial Model, Points of Influence (Cook Distance, DFFiTS, DFBETAS, $h_{ii}$), F-test, t-test, $AIC$, $C_p$, $R^2$, Confidence Intervals, Plots, extra: Ridge and  Lasso Regression
+•	Polynomial Regression: Polynomial Model, Points of Influence (Cook's Distance, DFFiTS, DFBETAS, $h_{ii}$), F-test, t-test, $AIC$, $C_p$, $R^2$, Confidence Intervals, Plots, extra: Ridge and  Lasso Regression
 
 •	Poisson and Logistic Regression: Statistical Testing (Wald and Deviance), Confidence Intervals, Plots, Points of Influence, Interactions, ROC curve
 
