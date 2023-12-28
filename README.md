@@ -1,5 +1,5 @@
 A series of 3 assignments conducted as part of the module ‘Statistical Modelling’ for the MSc ‘Data Science and Machine Learning’. The assignments include:
-* Linear Regression: Linear Model, Mathematical Proofs, Scatter Plot, Hypothesis Testing, Confidence Intervals
+- Linear Regression: Linear Model, Mathematical Proofs, Scatter Plot, Hypothesis Testing, Confidence Intervals
 
 •	Polynomial Regression: Polynomial Model, Points of Influence (Cook's Distance, DFFiTS, DFBETAS, $h_{ii}$), F-test, t-test, $AIC$, $C_p$, $R^2$, Confidence Intervals, Plots, extra: Ridge and  Lasso Regression
 
